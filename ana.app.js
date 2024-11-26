@@ -53,3 +53,7 @@ console.log(bonus)
 console.log (phones)
 
 //დაბეჭდეთ phones მასივის ბოლო პირველი და ბოლო ელემენტი ( ცალ-ცალკე console.log ეგში)
+
+ const numbers = ["Iphone", "Samsung" ,"Pixel" ,"Huawei" ,"Xiaomi"]
+console.log (phones [0])
+console.log (phones [4])
