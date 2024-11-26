@@ -1,3 +1,4 @@
-x=87
-y=65
+var x=87
+var y=65
 console.log (x+y)
+
